@@ -1,10 +1,10 @@
 ### Hello there!
 
-My name is Rowan (the Row rhymes with cow)! I study Computer Science at CSU Long Beach.
+Call me Rowan (the Row rhymes with cow)! I study Computer Science at CSU Long Beach.
 
 ```
 fn main() {
-  println!("My most recent interest is the Rust programming language!");
+  println!("My most recent interest include the Rust programming language!");
 }
 ```
 
