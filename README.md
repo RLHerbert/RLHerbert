@@ -4,7 +4,7 @@ Call me Rowan (the Row rhymes with cow)! I study Computer Science at CSU Long Be
 
 ```
 fn main() {
-  println!("My most recent interest include the Rust programming language!");
+  println!("My most recent interests include the Rust programming language!");
 }
 ```
 
