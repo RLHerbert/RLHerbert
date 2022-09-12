@@ -1,6 +1,6 @@
 ### Hello there!
 
-Call me Rowan (the Row rhymes with cow)! I study Computer Science at CSU Long Beach.
+Call me Rowan (the Row rhymes with cow).
 
 ```
 fn main() {
